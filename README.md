@@ -15,3 +15,4 @@ Vous avez reçu un objet et vous voulez comprendre ce qu'il fait.
 
 
 Vous pouvez vous aider d'outils tels que screen, strings, ghidra, mosquitto-clients.
+(le port utilisé est le 1883)
