@@ -1,9 +1,6 @@
 # TD02 – L'objet mystère
 
 On vous a remis un objet connecté, sans documentation. Il communique par radio (6LoWPAN) avec une passerelle, qui le relie à Internet. Votre mission : comprendre ce qu'il fait et en tirer tous ses secrets.
-
-Matériel par groupe : l'objet (carte Zest Core STM32L4A6RG déjà programmée, avec un bouton et une LED), une sonde J-Link et un câble USB-série.
-
 ## Objectifs
 
 L'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4). Chaque groupe a ses propres flags. Un flag d'un autre groupe ne compte que si votre compte rendu explique comment vous l'avez obtenu.
