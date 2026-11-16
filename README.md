@@ -28,5 +28,5 @@ Dans le désordre :
 
 - Console série : `python -m serial.tools.miniterm`, ou `screen`, au même débit qu'au TD01.
 - Sonde : `JLinkExe` (voir le TD01). Un dump n'est fiable que processeur arrêté.
-- Analyse : `strings`, `xxd` ou `hexdump`, Ghidra si vous voulez aller plus loin.
+- Analyse : `strings`, `xxd` ou `hexdump`.
 - MQTT : `mosquitto-clients` (`mosquitto_sub`, `mosquitto_pub`) ou la bibliothèque Python `paho-mqtt`.
