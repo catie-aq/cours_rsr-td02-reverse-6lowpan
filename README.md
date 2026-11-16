@@ -12,8 +12,8 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 
 Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contient :
 
-1. Le tableau de vos flags (les vôtres et celui d'un voisin) et votre prise de contrôle, avec pour chacun où et comment vous l'avez obtenu.
-2. Les étapes suivies, avec les commandes utilisées et leur sortie utile.
+1. Le tableau de 5 flags : vos 4 flags et le flag f3 d'un autre groupe, avec pour chacun où et comment vous l'avez obtenu.
+2. La méthodologie : les étapes suivies pour les flags et la prise de contrôle, avec les commandes utilisées et leur sortie utile.
 3. Pour chaque faiblesse exploitée, la protection qui l'aurait empêchée. Cette partie compte autant que les flags.
 
 ## Pistes
