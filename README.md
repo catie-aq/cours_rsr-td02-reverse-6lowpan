@@ -6,7 +6,7 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 
 1. **Vos 4 flags** : l'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4).
 2. **Modification du firmware** : faites publier à votre objet un autre message.
-3. **Chez les voisins** : récupérez le flag f3 d'un autre groupe sans toucher à son matériel. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
+3. **Flag n°3 d'un autre groupe** : récupérez-le sans toucher au matériel de ce groupe. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
 
 ## À rendre
 
