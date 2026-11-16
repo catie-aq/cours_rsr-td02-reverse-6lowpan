@@ -21,7 +21,6 @@ Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contien
 Dans le désordre :
 
 - Que raconte l'objet quand il démarre ?
-- Que contient sa mémoire ? Récupérez le firmware avec la sonde de programmation.
 - À qui parle-t-il sur Internet, et sur quels topics ?
 - Que se passe-t-il quand on appuie sur le bouton ?
 - L'objet ne fait pas que parler : il écoute aussi. Quelles commandes accepte-t-il ?
