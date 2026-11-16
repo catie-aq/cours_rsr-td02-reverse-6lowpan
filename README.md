@@ -5,7 +5,7 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 ## Objectifs
 
 1. **Vos 4 flags** : l'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4).
-2. **Prise de contrôle** : faites publier à votre objet un autre message que le sien.
+2. **Modification du firmware** : faites publier à votre objet un autre message.
 3. **Chez les voisins** : récupérez le flag f3 d'un autre groupe sans toucher à son matériel. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
 
 ## À rendre
@@ -13,7 +13,7 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contient :
 
 1. Le tableau de 5 flags : vos 4 flags et le flag f3 d'un autre groupe, avec pour chacun où et comment vous l'avez obtenu.
-2. La méthodologie : les étapes suivies pour les flags et la prise de contrôle, avec les commandes utilisées et leur sortie utile.
+2. La méthodologie : les étapes suivies pour les flags et la modification du firmware, avec les commandes utilisées et leur sortie utile.
 3. Pour chaque faiblesse exploitée, la protection qui l'aurait empêchée. Cette partie compte autant que les flags.
 
 ## Pistes
