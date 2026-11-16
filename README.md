@@ -5,16 +5,17 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 ## Objectifs
 
 1. **Vos 4 flags** : l'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4).
-2. **Modification du firmware** : faites publier à votre objet un autre message.
+2. **Modification du firmware** : faites publier à votre objet, quand on appuie sur le bouton, un message de votre choix.
 3. **Flag n°3 d'un autre groupe** : récupérez-le sans toucher au matériel de ce groupe. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
 
 ## À rendre
 
-Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contient :
+Un compte rendu par groupe, envoyé par mail à la fin de la séance. L'IA est autorisée, mais le compte rendu doit montrer que vous avez compris : court et précis vaut mieux que long et creux. Il contient :
 
-1. Le tableau de 5 flags : vos 4 flags et le flag f3 d'un autre groupe, avec pour chacun où et comment vous l'avez obtenu.
-2. La méthodologie : les étapes suivies pour les flags et la modification du firmware, avec les commandes utilisées et leur sortie utile.
-3. Pour chaque faiblesse exploitée, la protection qui l'aurait empêchée. Cette partie compte autant que les flags.
+1. Le tableau des 5 flags : vos 4 flags et le flag n°3 d'un autre groupe.
+2. Votre démarche : pour chaque flag et pour la modification du firmware, expliquez précisément comment vous avez obtenu l'information (par où vous êtes passés, ce que vous avez essayé, ce que vous en avez déduit).
+3. Le fonctionnement de l'objet tel que vous l'avez compris : ce qu'il fait, avec qui il communique et comment.
+4. Pour chaque faiblesse exploitée, une contre-mesure qui l'aurait empêchée (à proposer, pas à mettre en œuvre). Cette partie compte autant que les flags.
 
 ## Pistes
 
