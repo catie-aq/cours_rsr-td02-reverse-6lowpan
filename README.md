@@ -6,7 +6,7 @@ Matériel par groupe : l'objet (carte Zest Core STM32L4A6RG déjà programmée, 
 
 ## Objectif : 4 flags
 
-L'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4). Chaque groupe a ses propres flags : ceux d'un autre groupe ne vous rapportent rien.
+L'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4). Chaque groupe a ses propres flags. Un flag d'un autre groupe ne compte que pour le bonus B1, et seulement si votre compte rendu explique comment vous l'avez obtenu.
 
 Pistes, dans le désordre :
 
@@ -18,7 +18,7 @@ Pistes, dans le désordre :
 
 ## Bonus
 
-- **B1 – Chez les voisins** : récupérez un flag d'un autre groupe sans toucher à son matériel.
+- **B1 – Chez les voisins** : récupérez un flag d'un autre groupe sans toucher à son matériel, et expliquez votre méthode.
 - **B2 – La clé du réseau radio** : retrouvez la clé qui protège le réseau 6LoWPAN. Que peut faire quelqu'un qui la connaît ?
 - **B3 – Sans la carte** : retrouvez vos flags masqués à partir du seul firmware, sans faire fonctionner l'objet.
 - **B4 – Prise de contrôle** : faites publier à votre objet un autre message que le sien.
