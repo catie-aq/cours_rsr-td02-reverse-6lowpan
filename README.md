@@ -4,20 +4,9 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 
 ## Objectifs
 
-L'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4). Chaque groupe a ses propres flags. Un flag d'un autre groupe ne compte que si votre compte rendu explique comment vous l'avez obtenu.
-
-Pistes, dans le désordre :
-
-- Que raconte l'objet quand il démarre ?
-- Que contient sa mémoire ? Récupérez le firmware avec la sonde de programmation.
-- À qui parle-t-il sur Internet, et sur quels topics ?
-- Que se passe-t-il quand on appuie sur le bouton ?
-- L'objet ne fait pas que parler : il écoute aussi. Quelles commandes accepte-t-il ?
-
-Ensuite :
-
-- **Prise de contrôle** : faites publier à votre objet un autre message que le sien.
-- **Chez les voisins** : récupérez un flag d'un autre groupe sans toucher à son matériel, et expliquez votre méthode.
+1. **Vos 4 flags** : l'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4).
+2. **Prise de contrôle** : faites publier à votre objet un autre message que le sien.
+3. **Chez les voisins** : récupérez le flag f3 d'un autre groupe sans toucher à son matériel. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
 
 ## Bonus
 
@@ -37,6 +26,16 @@ Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contien
 1. Le tableau de vos flags (les vôtres, celui d'un voisin, les bonus) et votre prise de contrôle, avec pour chacun où et comment vous l'avez obtenu.
 2. Les étapes suivies, avec les commandes utilisées et leur sortie utile.
 3. Pour chaque faiblesse exploitée, la protection qui l'aurait empêchée. Cette partie compte autant que les flags.
+
+## Pistes
+
+Dans le désordre :
+
+- Que raconte l'objet quand il démarre ?
+- Que contient sa mémoire ? Récupérez le firmware avec la sonde de programmation.
+- À qui parle-t-il sur Internet, et sur quels topics ?
+- Que se passe-t-il quand on appuie sur le bouton ?
+- L'objet ne fait pas que parler : il écoute aussi. Quelles commandes accepte-t-il ?
 
 ## Outils et rappels
 
