@@ -4,7 +4,7 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 
 Matériel par groupe : l'objet (carte Zest Core STM32L4A6RG déjà programmée, avec un bouton et une LED), une sonde J-Link et un câble USB-série.
 
-## Objectif : 4 flags
+## Objectifs
 
 L'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4). Chaque groupe a ses propres flags. Un flag d'un autre groupe ne compte que pour le bonus B1, et seulement si votre compte rendu explique comment vous l'avez obtenu.
 
@@ -16,25 +16,26 @@ Pistes, dans le désordre :
 - Que se passe-t-il quand on appuie sur le bouton ?
 - L'objet ne fait pas que parler : il écoute aussi. Quelles commandes accepte-t-il ?
 
+Enfin, prenez le contrôle : faites publier à votre objet un autre message que le sien.
+
 ## Bonus
 
 - **B1 – Chez les voisins** : récupérez un flag d'un autre groupe sans toucher à son matériel, et expliquez votre méthode.
 - **B2 – La clé du réseau radio** : retrouvez la clé qui protège le réseau 6LoWPAN. Que peut faire quelqu'un qui la connaît ?
 - **B3 – Sans la carte** : retrouvez vos flags masqués à partir du seul firmware, sans faire fonctionner l'objet.
-- **B4 – Prise de contrôle** : faites publier à votre objet un autre message que le sien.
 
 ## Règles du jeu
 
 - Votre objet est à vous : tout est permis dessus.
 - Les objets des autres groupes ne se touchent qu'à distance, sans les empêcher de fonctionner.
-- Interdit : faire redémarrer ou bloquer l'objet d'un autre groupe, publier des messages retenus (`retain`), vous connecter avec l'identifiant d'un objet, inonder le serveur, viser autre chose que les objets du TD.
+- Interdit : perturber ou bloquer l'objet d'un autre groupe, inonder le serveur, viser autre chose que les objets du TD.
 - Le serveur utilisé est un service public. En dehors de ce cadre, s'introduire dans un système ou l'entraver est un délit (articles 323-1 et 323-2 du Code pénal).
 
 ## À rendre
 
 Un compte rendu par groupe, envoyé par mail à la fin de la séance. Il contient :
 
-1. Le tableau de vos flags (et bonus), avec pour chacun où et comment vous l'avez trouvé.
+1. Le tableau de vos flags, de votre prise de contrôle et de vos bonus, avec pour chacun où et comment vous l'avez trouvé.
 2. Les étapes suivies, avec les commandes utilisées et leur sortie utile.
 3. Pour chaque faiblesse exploitée, la protection qui l'aurait empêchée. Cette partie compte autant que les flags.
 
