@@ -2,7 +2,7 @@
 
 On vous a remis un objet connecté, sans documentation. Il communique par radio (6LoWPAN) avec une passerelle, qui le relie à Internet. Votre mission : comprendre ce qu'il fait et en tirer tous ses secrets.
 
-Matériel par groupe : l'objet (carte Zest Core STM32L4A6RG déjà programmée, avec un bouton et une LED), une sonde J-Link et un câble USB-série. Ne reprogrammez pas l'objet avant d'avoir récupéré son firmware.
+Matériel par groupe : l'objet (carte Zest Core STM32L4A6RG déjà programmée, avec un bouton et une LED), une sonde J-Link et un câble USB-série.
 
 ## Objectif : 4 flags
 
