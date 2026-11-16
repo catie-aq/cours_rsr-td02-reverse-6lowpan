@@ -6,15 +6,17 @@ On vous a remis un objet connecté, sans documentation. Il communique par radio 
 
 1. **Vos 4 flags** : l'objet cache 4 flags de la forme `RSR{gN_fK_...}`, où `N` est votre numéro de groupe et `K` le numéro du flag (1 à 4).
 2. **Modification du firmware** : faites publier à votre objet, quand on appuie sur le bouton, un message de votre choix.
-3. **Flag n°3 d'un autre groupe** : récupérez-le sans toucher au matériel de ce groupe. Il ne compte que si votre compte rendu explique comment vous l'avez obtenu.
+3. **Flag n°3 d'un autre groupe** : récupérez-le sans toucher au matériel de ce groupe. Il ne compte que si votre rapport explique comment vous l'avez obtenu.
 
 ## À rendre
 
-Un compte rendu par groupe, envoyé par mail à la fin de la séance. L'IA est autorisée, mais le compte rendu doit montrer que vous avez compris : court et précis vaut mieux que long et creux. Il contient :
+À la fin de la séance, envoyez par mail **un rapport en PDF, et rien d'autre**. Le mail et le rapport indiquent votre numéro de groupe et les noms des membres du groupe.
 
-1. Le tableau des 5 flags : vos 4 flags et le flag n°3 d'un autre groupe.
+Le rapport est synthétique. L'IA est autorisée, mais le rapport doit montrer que vous avez compris : court et précis vaut mieux que long et creux. Il contient :
+
+1. Le tableau des 5 flags obtenus : vos 4 flags et le flag n°3 d'un autre groupe.
 2. Votre démarche : pour chaque flag et pour la modification du firmware, expliquez précisément comment vous avez obtenu l'information (par où vous êtes passés, ce que vous avez essayé, ce que vous en avez déduit).
-3. Le fonctionnement de l'objet tel que vous l'avez compris : ce qu'il fait, avec qui il communique et comment.
+3. Le fonctionnement de l'objet tel que vous l'avez compris : ce qu'il fait, avec qui il communique et comment. Répondez au passage aux questions des pistes ci-dessous.
 4. Pour chaque faiblesse exploitée, une contre-mesure qui l'aurait empêchée (à proposer, pas à mettre en œuvre). Cette partie compte autant que les flags.
 
 ## Pistes
